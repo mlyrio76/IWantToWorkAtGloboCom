@@ -1,7 +1,7 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Plataforma de Cadastro
 
 __Dicas:__
 * Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
@@ -9,7 +9,121 @@ __Dicas:__
 CV
 ==
 
-[Preencha aqui o seu cv]
+
+MARCELO CORDEIRO LYRIO Casado - 36 anos
+Tel.: (21) 3511-6695 / Cel: (21) 8561-6098
+E-mail: mlyrio76@gmail.com
+
+OBJETIVO:
+Atuar como Analista de Sistemas Sênior no desenvolvimento de programas, bem como colaborar com a gerência de projetos no controle de recursos através das melhores práticas do mercado, garantindo o retorno dos investimentos e necessidades do negócio.
+
+FORMAÇÃO:
+•	Universidade Estácio de Sá - Processamento de Dados 
+
+IDIOMA:
+•	Inglês: Leitura (Fluente), Escrita (Fluente) e Fala (Avançada)
+
+EXPERIÊNCIA PROFISSIONAL:
+
+RÁDIO FM O DIA – GERENTE WEB/TI – 10/2010 até 05/2013
+Gerente funcional da área WEB/TI, participando ativamente em todo o processo de desenvolvimento de projetos, desde o planejamento até a execução e desenvolvimento, além de coordenar a infraestrutura, sistemas, e gestão de conteúdo do site, utilizando as tecnologias SQL Server, SQL, Storage, Windows, Networking, Unix, Firewall, Cloud Computing, Backup, IIS, Exchange Server, Shell Scripting, IIS, WordPress, HTML, HTML 5, PHP, ASP, Jquery, Ajax, JavaScript, Live Streaming, SEO, Google Analytics e AdSense, Mail2Easy, Easy Mailing, Live Buzz, MS Project.
+
+ACCENTURE DO BRASIL – CONSULTOR SÊNIOR – 02/2008 até 10/2010
+Coordenador de projetos, exercendo na fábrica de software o controle da equipe de atendimento de chamados do sistema de faturamento da empresa OI Telecomunicações, utilizando as tecnologias Oracle, PL/SQL, C, Shell Script, Remedy, PVCS, SQL, Otimização de Queries, CONTROL-M, Solaris, UML, Pontos de Função, MS Project, SOA, OLAP, ETL, ARBOR, Siebel, Data Mining, Tarifação de CDR.
+
+EMBRATEL – ANALISTA DE SISTEMAS SÊNIOR – 09/1999 até 02/2008
+Analista Sênior, participando de todo o processo de desenvolvimento além de supervisionar a da equipe de BI controlando, planejando processos, e se comunicando com as demais áreas para criação das interfaces entre os sistemas DataWarehouse, DBM, Faturamento, Cobrança, CRM. Posteriormente integrou a equipe de prevenção à fraude, desempenhando papel de analise, planejamento e desenvolvimento de projetos para a garantia da receita. 
+Durante esse período utilizou das seguintes tecnologias:  Solaris, Oracle, PL/SQL, SQL Server, Transact-SQL, Shell Script, C, PVCS, ASP, Java, Control-M, SOA, ETL, OLAP.
+
+BL INFORMÁTICA – ANALISTA DE SISTEMAS – 04/1997 até 09/1999
+Desenvolvedor Java para Intranets atuando em clientes como Petrobrás, IRB do Brasil, Texaco e FICAP, utilizando tecnologias JAVA, SERVLETS, APPLETS, JSP, HTML, ASP, SQL Server, PhotoShop, UML, MS Project.  
+
+PROJETOS EM DESTAQUE
+
+PROJETO SEDE FM O DIA – 3 meses
+Criar a nova infraestrutura de TI da sede da empresa, planejando e executando o projeto de rede estruturada, datacenter, backup/restore, contingências, segurança, permissões, inventários de hardware e software, além de criar a área de suporte e atendimento e gerir todos os recursos de TI.  
+
+WORKFLOW DE RÁDIO – 2 anos
+Projeto de criação do sistema integrado de gestão empresarial (web-based), voltado para o meio de radiodifusão, integrando os setores Administrativos, Contábil, Comercial, Artístico, Produção, Promoção e Web.
+
+WEBSITE FMODIA.COM.BR – 1 ano
+Projeto de renovação do site da empresa com o objetivo de captar novas receitas, utilizando novas tecnologias de transmissão ao vivo (live streaming), e-commerce, e-learning, blogs, jogos online.
+
+ARS CONTROL – 6 meses
+Projeto de sistema de gestão de chamados de clientes da OI Telecomunicações, que garantisse o SLA de atendimento e criação da base de lições aprendidas para futuros clientes.
+
+SINCRONISMO CDS – 3 meses
+Projeto para a criação de processos de sincronismos da base de clientes da EMBRATEL, buscando garantir a integridade dos sistemas de CRM, Faturamento e Cadastro. O resultado foi a redução de 4% para 1% de perda de receita por cadastro indevido.
+
+PERFIL:
+Profissional com 14 anos de experiência em Tecnologia da Informação, exercendo nos últimos 5 anos posições de liderança, coordenação, planejamento e desenvolvimento de sistemas. 
+Com foco em metas e prazos estabelecidos, buscando sempre atender as necessidades com qualidade e o melhor orçamento, garantindo o ROI .
+Amplo conhecimento em diversas tecnologias nas áreas de telecomunicações e web. Com forte iniciativa para liderança de equipes.
+Experiência em gestão e planejamento de Projetos Web (Web sites, E-commerce, E-learning), desenvolvendo produtos para o aumento da audiência nesse meio de comunicação. 
+Sólidos conhecimentos em administração de Infraestrutura de TI, Segurança da Informação, Rede Estruturada de Dados e Telefonia e Gestão de Help Desk.
+
+CONHECIMENTOS:
+•	SEO
+•	Google Analytics
+•	AdSense 
+•	Mail2Easy
+•	Easy Mailing
+•	Live Buzz 
+•	Cloud Computing
+•	Live Streaming
+•	Exchange Server 
+•	WordPress
+•	IIS 
+•	HTML
+•	PHP 
+•	ASP
+•	JAVA
+•	Jquery	•	Ajax
+•	JavaScript
+•	JSP
+•	Linux e Solaris
+•	Shell Script
+•	Firewall
+•	Oracle
+•	SQL Server
+•	SQL
+•	PL/SQL
+•	Transact-SQL
+•	C
+•	Remedy
+•	Tarifação de CDRs
+•	PVCS
+•	Control-M	•	ARBOR
+•	Siebel
+•	Data Mining
+•	SOA 
+•	ETL 
+•	OLAP
+•	UML
+•	Pontos de Função
+•	MS Project
+•	Rational Rose
+•	Visio
+•	Toad
+•	ErWin  
+•	Photo Shop
+•	UML
+•	Final Cut
+
+CURSOS
+o	Gerente de Projetos – Padrão PMI – Instituto INFNET
+o	Preparatório para PMP Exam – Accenture
+o	Gestão de Pessoal - IBMEC
+o	Gerenciamento de Projetos Web - JumpEducation
+o	Academia ARBOR (Billing) – Accenture
+o	Técnicas de Administração do Tempo - Accenture
+o	Formação Oracle-DBA 9i – INFNET
+o	Excelência Através de Qualidade – Embratel
+
+
+
+
+
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
